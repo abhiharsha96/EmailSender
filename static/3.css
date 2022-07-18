@@ -1,0 +1,42 @@
+ul{
+    background-color:#00203fff
+}
+body{
+    background-color: #80cfd5;
+}
+li{
+    display: inline;
+}
+table,tr,td{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+    color: #40514e;
+}
+
+h1{
+    color:#6dc3cc;
+}
+a{
+    color: #80cfdf;
+}
+i{
+    color: #80cfd5;
+}
+button{
+    background-color:#00356b;
+    color: #80cfd5;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 100px;
+    font-style: italic;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid black;
+}
+textarea{
+    border-radius: 5px;
+    border: 2px solid black;    
+}
